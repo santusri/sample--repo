@@ -47,7 +47,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-<!-- Test Coomit01 -->
+<!-- Test Coomit 01 -->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
