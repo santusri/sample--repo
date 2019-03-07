@@ -1,0 +1,285 @@
+{
+	"info": {
+		"_postman_id": "898d225f-895c-470d-8362-c612778c8ef3",
+		"name": "Lambda-Test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "LFNQJXf4MZ2eYp6VsQrLf9IrCGVIFH6H6MV0vDL4",
+						"type": "text"
+					},
+					{
+						"key": "input",
+						"value": "Howdy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy",
+					"protocol": "https",
+					"host": [
+						"ixhia17mff",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"StageTest",
+						"test-resource",
+						"v1"
+					],
+					"query": [
+						{
+							"key": "input",
+							"value": "Howdy"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy Copy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "LFNQJXf4MZ2eYp6VsQrLf9IrCGVIFH6H6MV0vDL4",
+						"type": "text"
+					},
+					{
+						"key": "input",
+						"value": "Howdy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Look the",
+					"protocol": "https",
+					"host": [
+						"ixhia17mff",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"StageTest",
+						"test-resource",
+						"v1"
+					],
+					"query": [
+						{
+							"key": "input",
+							"value": "Look the"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy Copy Copy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "LFNQJXf4MZ2eYp6VsQrLf9IrCGVIFH6H6MV0vDL4",
+						"type": "text"
+					},
+					{
+						"key": "input",
+						"value": "Howdy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Know",
+					"protocol": "https",
+					"host": [
+						"ixhia17mff",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"StageTest",
+						"test-resource",
+						"v1"
+					],
+					"query": [
+						{
+							"key": "input",
+							"value": "Know"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy Copy Copy Copy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "LFNQJXf4MZ2eYp6VsQrLf9IrCGVIFH6H6MV0vDL4",
+						"type": "text"
+					},
+					{
+						"key": "input",
+						"value": "Howdy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Wow",
+					"protocol": "https",
+					"host": [
+						"ixhia17mff",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"StageTest",
+						"test-resource",
+						"v1"
+					],
+					"query": [
+						{
+							"key": "input",
+							"value": "Wow"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy Copy Copy Copy Copy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "LFNQJXf4MZ2eYp6VsQrLf9IrCGVIFH6H6MV0vDL4",
+						"type": "text"
+					},
+					{
+						"key": "input",
+						"value": "Howdy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=what is the",
+					"protocol": "https",
+					"host": [
+						"ixhia17mff",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"StageTest",
+						"test-resource",
+						"v1"
+					],
+					"query": [
+						{
+							"key": "input",
+							"value": "what is the"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=Howdy Copy Copy Copy Copy Copy",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "LFNQJXf4MZ2eYp6VsQrLf9IrCGVIFH6H6MV0vDL4",
+						"type": "text"
+					},
+					{
+						"key": "input",
+						"value": "Howdy",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://ixhia17mff.execute-api.us-east-1.amazonaws.com/StageTest/test-resource/v1?input=thats the ",
+					"protocol": "https",
+					"host": [
+						"ixhia17mff",
+						"execute-api",
+						"us-east-1",
+						"amazonaws",
+						"com"
+					],
+					"path": [
+						"StageTest",
+						"test-resource",
+						"v1"
+					],
+					"query": [
+						{
+							"key": "input",
+							"value": "thats the "
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
